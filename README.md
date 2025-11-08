@@ -90,3 +90,5 @@ MIT License
 ## 기여
 
 이슈와 풀 리퀘스트는 언제나 환영합니다!
+---
+Made by [spear34000](https://github.com/spear34000)
