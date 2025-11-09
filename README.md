@@ -76,12 +76,6 @@ git clone https://github.com/GoProSMC/Subnet-Calculator.git
 - CIDR 표기법
 - 네트워크 클래스
 
-## 활용 분야
-
-- 네트워크 수업 학습 도구
-- 네트워크 관리자 유틸리티
-- CCNA/네트워크 자격증 공부
-- 서브넷 설계 및 계획
 
 ## 라이선스
 
